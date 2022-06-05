@@ -1,4 +1,6 @@
-package FunctionalInerfaceExample;
+package FunctionalInerfaceExample.EmployeeOperation;
+
+import FunctionalInerfaceExample.EmployeeOperation.Employee;
 
 import java.util.Comparator;
 import java.util.List;

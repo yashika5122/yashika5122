@@ -1,4 +1,7 @@
-package FunctionalInerfaceExample;
+package FunctionalInerfaceExample.EmployeeOperation;
+
+import java.util.Comparator;
+import java.util.concurrent.Callable;
 
 public class Employee {
     int id;
