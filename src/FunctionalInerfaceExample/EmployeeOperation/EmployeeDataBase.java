@@ -14,7 +14,7 @@ public class EmployeeDataBase {
         employees.add(new Employee(345,"Sonali","Defence",350000));
         employees.add(new Employee(234,"Rashmi","Core",700000));
         employees.add(new Employee(98,"Sohan","Social",550000));
-        employees.add(new Employee(390,"Anjali","IT",200000));
+        employees.add(new Employee(390,"Anjali","IT",20000));
         return employees;
     }
 }
