@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÑ“Çüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ıÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(´ş·“şÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¢¯‹
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(­ºã
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(´ŒØ¼üÿÿÿÿ
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Çü ö‘0
+t
+java:S1128"YRemove this unused import 'FunctionalInerfaceExample.EmployeeOperation.EmployeeDataBase'.(õæÉ¯şÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(Ÿúó
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½öÙï

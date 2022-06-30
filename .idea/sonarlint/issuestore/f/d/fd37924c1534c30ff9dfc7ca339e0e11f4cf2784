@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ôš›åøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥²˜Å
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(ù· 
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¥²˜Å
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¾ãğ¼
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(×Äñï
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(Á†$
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ÓÎ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(èÓ²âıÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(üÜÌîøÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'java.security.KeyStore'.(ïººW
+>
+java:S1604"(Make this anonymous inner class a lambda(ÎÉ£…
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½öÙï

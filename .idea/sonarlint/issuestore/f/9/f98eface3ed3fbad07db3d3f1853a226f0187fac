@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×Ò©ÿþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²Ëçäÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ýÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(­ºã
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(«ÍáÌúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ÍáÌúÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(óÚ›ñøÿÿÿÿ
+[
+java:S1612%"@Replace this lambda with method reference 'Employee::getSalary'.(äò¾Éúÿÿÿÿ
+V
+java:S1612&"@Replace this lambda with method reference 'System.out::println'.(š§¨û
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(š§¨û
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(££›ðüÿÿÿÿ
+V
+java:S1612-"@Replace this lambda with method reference 'System.out::println'.(š§¨û
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(š§¨û
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ø²ì¯
+V
+java:S16122"@Replace this lambda with method reference 'System.out::println'.(š§¨û
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(š§¨û
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½öÙï
