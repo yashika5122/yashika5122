@@ -43,6 +43,7 @@ public class SortMapDemo {
         map.entrySet().stream().sorted((o1, o2) -> o1.getValue().compareTo(o2.getValue())).forEach(System.out::println);
 
         System.out.println("--------comparingByKey---------");
+
         map.entrySet().stream().sorted(Map.Entry.comparingByKey()).forEach(System.out::println);
 
         System.out.println("---------Reversed--------");

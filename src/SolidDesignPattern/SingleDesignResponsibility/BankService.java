@@ -1,7 +1,7 @@
 package SolidDesignPattern.SingleDesignResponsibility;
 
 /* This BankService contains multiple of task like loan, interest,send OTP which can be further divided into
- * separate class and this is the purpose of SDR to perform single functionality, so we create separate
+ * separate class and this is the purpose of SDR to perform single functionality, so we create separate class
  * for each */
 
 public class BankService {

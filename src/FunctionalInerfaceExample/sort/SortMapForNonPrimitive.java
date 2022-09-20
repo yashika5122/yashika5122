@@ -47,5 +47,14 @@ public class SortMapForNonPrimitive {
         System.out.println("--------------Reversed---------------"); //change comparingByKey to comparingByValue give error coz it is primitive data type
         employeeMap.entrySet().stream().sorted(Map.Entry.comparingByKey(Comparator.comparing(Employee::getSalary).reversed()))
                 .forEach(System.out::println);
+
+        employeeMap.entrySet().stream().sorted(Map.Entry.comparingByValue()).forEach(e -> System.out.println("-----"+e));
+
+        /*Sort on the name then salary then dept */
+        System.out.println("Sort on the name then salary then dept---");
+        employeeMap.entrySet().stream().sorted(Map.Entry.comparingByKey(Comparator.comparing(Employee::getName)
+                .thenComparing(Employee::getSalary)
+                .thenComparing(Employee::getDept)))
+                .forEach(System.out::println);
     }
 }

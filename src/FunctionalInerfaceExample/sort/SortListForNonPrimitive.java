@@ -13,9 +13,9 @@ public class SortListForNonPrimitive {
         /*Approach 1
         * Implement Comparator in class and call that object
         * */
-        Collections.sort(employees,new MyComparator());
-        System.out.println("------------Approach 1-----------------");
-        System.out.println(employees);
+//        Collections.sort(employees,new MyComparator());
+//        System.out.println("------------Approach 1-----------------");
+//        System.out.println(employees);
 
         /*Approach 2
         * direct implement comparator method from lambda expression

@@ -13,7 +13,7 @@ public class ConsumerExample {
         ConsumerExample example = new ConsumerExample();
         example.accept("10");
 */
-     /*2nd way by Lambda expression*/
+     /*2nd way by Lambda expression and remove implements Consumer<String> in this case*/
        Consumer<String> consumer = (o) -> System.out.println("Consumer example " + o);
        consumer.accept("Hello");
 

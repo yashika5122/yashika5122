@@ -25,10 +25,12 @@ public class MapAndFlatMap {
                 .collect(Collectors.toList());
         System.out.println(phoneNumber);
 
+        List<String> phoneNumberList1= customers.stream().flatMap(customer -> customer.getPhoneNumber().stream()).collect(Collectors.toList());
         /* without flat map it will give List of List: List<List<String>> */
         List<List<String>> phoneNumberList = customers.stream()
                 .map(customer -> customer.getPhoneNumber())
                 .collect(Collectors.toList());
         System.out.println(phoneNumberList);
+        System.out.println(phoneNumberList1);
     }
 }

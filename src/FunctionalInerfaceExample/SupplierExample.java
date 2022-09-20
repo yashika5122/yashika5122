@@ -21,7 +21,7 @@ public class SupplierExample {
 
         List<String> list1 = Arrays.asList();
         System.out.println( list1.stream().findAny().orElseGet(()->"no element there"));
-    }
+     }
 
  /*
   Use for 1st way

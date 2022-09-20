@@ -10,7 +10,7 @@ import java.util.function.Predicate;
 
 public class OptionalExample {
     public static void main(String[] args) {
-        Customer customer = new Customer(12, "Yashika", null, Arrays.asList("345674488", "64335677"));
+        Customer customer = new Customer(12, "Yashika", "aaa", Arrays.asList("345674488", "64335677"));
 
         /*empty
          * of
@@ -38,6 +38,8 @@ public class OptionalExample {
 
 //        If we want to return any default value in case of null
         System.out.println("Line 6.." + email1.orElse("my@gmail.com"));
+        Optional<String> email5 = Optional.ofNullable(customer.getEmail());
+        System.out.println("----"+ email5.map(String::toUpperCase).orElseThrow(()->new IllegalArgumentException("emememe")));
 
 //        Diff b/w orElse and orElseGet is orElse accept string and orElseGet accept supplier otherwise both return default value
         System.out.println("Line 7.." + email1.orElseGet(() -> "mynew@gmail.com"));
