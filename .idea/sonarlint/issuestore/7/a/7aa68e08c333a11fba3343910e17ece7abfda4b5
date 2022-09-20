@@ -1,0 +1,13 @@
+
+Y
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(«˜‡¼
+_
+java:S2147"DCombine this catch with the one at line 11, which has the same body.(ãñÙüÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(¦îİüÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(ÖÑµ
+C	java:S108")Either remove or fill this block of code.(ãñÙüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦îİüÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(ŞËÌùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™àşüÿÿÿÿ
+R
+java:S3518"7Make sure "a" can't be zero before doing this division.(¦òùôüÿÿÿÿ

@@ -1,0 +1,8 @@
+
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(€þØ½ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€þØ½ýÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Åìäµýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Åìäµýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çì×¹ûÿÿÿÿ

@@ -1,0 +1,14 @@
+
+Z
+java:S2147"DCombine this catch with the one at line 17, which has the same body.(ï­£Ä
+<
+java:S1481"&Remove this unused "c" local variable.(¨æµ²
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Z
+java:S2147#"DCombine this catch with the one at line 33, which has the same body.(ï­£Ä
+<
+java:S1481"&Remove this unused "c" local variable.(¾™—
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™àþüÿÿÿÿ
+h
+java:S2259"MA "NullPointerException" could be thrown; "fileInputStream" is nullable here.(Ûû¼­øÿÿÿÿ
