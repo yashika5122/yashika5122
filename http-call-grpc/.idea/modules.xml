@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client-service/client-service.iml" filepath="$PROJECT_DIR$/client-service/client-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-service/grpc-service.iml" filepath="$PROJECT_DIR$/grpc-service/grpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/http-call-grpc.iml" filepath="$PROJECT_DIR$/.idea/http-call-grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proto/target/maven-archiver/maven-archiver.iml" filepath="$PROJECT_DIR$/proto/target/maven-archiver/maven-archiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-service/target/maven-archiver/maven-archiver (1).iml" filepath="$PROJECT_DIR$/client-service/target/maven-archiver/maven-archiver (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-service/target/maven-archiver/maven-archiver (2).iml" filepath="$PROJECT_DIR$/grpc-service/target/maven-archiver/maven-archiver (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/proto/proto.iml" filepath="$PROJECT_DIR$/proto/proto.iml" />
+    </modules>
+  </component>
+</project>

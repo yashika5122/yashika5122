@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package com.cerence.proto;
+
+option java_multiple_files = true;
+option java_package = "com.cerence.proto";
+
+service TextProcessorService {
+    rpc TextProcessorBing(TextProcessorInputRequest) returns (TextProcessorInputResponse){}
+    rpc TextProcessorAcronyms(TextProcessorInputRequest) returns (TextProcessorInputResponse){}
+    rpc TextProcessorEmoji(TextProcessorInputRequest) returns (TextProcessorInputResponse) {}
+    rpc TextProcessorSpellChecker(TextProcessorInputRequest) returns (TextProcessorInputResponse) {}
+}
+
+message TextProcessorInput {
+    string input_language = 1;
+    string input_string = 2;
+}
+
+message TextProcessorInputRequest {
+    TextProcessorInput processor_input = 1;
+}
+
+message TextProcessorInputResponse {
+    string result = 1;
+}

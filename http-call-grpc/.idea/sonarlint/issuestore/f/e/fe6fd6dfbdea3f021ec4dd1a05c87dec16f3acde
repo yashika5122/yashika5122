@@ -1,0 +1,21 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(†Ôº8øµæ¬û/
+X	java:S125"<This block of commented-out lines of code should be removed.(ô´‰·8üµæ¬û/
+]	java:S125"<This block of commented-out lines of code should be removed.(êÃ¾ƒùÿÿÿÿ8ıµæ¬û/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(é¿İ°8ÿµæ¬û/
+X	java:S125+"<This block of commented-out lines of code should be removed.(’„í§8…¶æ¬û/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ğü¡Ù8ˆ¶æ¬û/
+X	java:S1257"<This block of commented-out lines of code should be removed.(Áøº½8‰¶æ¬û/
+]	java:S125="<This block of commented-out lines of code should be removed.(‚ ²çüÿÿÿÿ8¶æ¬û/
+Z
+java:S1128"8Remove this unused import 'org.languagetool.rules.Rule'.(ò¨Ù’ÿÿÿÿÿ8¶æ¬û/
+]
+java:S1128
+";Remove this unused import 'javax.lang.model.SourceVersion'.(ş·‘ıÿÿÿÿ8¶æ¬û/
+O
+java:S1128"-Remove this unused import 'javax.tools.Tool'.(öÎøÿÿÿÿ8¶æ¬û/
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8¶æ¬û/
+S
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8¶æ¬û/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8¶æ¬û/

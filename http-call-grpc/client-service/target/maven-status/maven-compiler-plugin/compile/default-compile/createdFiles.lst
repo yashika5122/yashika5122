@@ -1,0 +1,8 @@
+com\cerence\service\BookAuthorClientService.class
+com\cerence\service\AcronymsClientService.class
+com\cerence\controller\TextProcessorController.class
+com\cerence\service\EmojiClientService.class
+com\cerence\service\test.class
+com\cerence\service\JlanguageSpellCheckerService.class
+com\cerence\ClientApplication.class
+com\cerence\service\BingClientService.class

@@ -1,0 +1,13 @@
+
+~
+java:S4144""aUpdate this method so that its implementation is not identical to "textProcessorBing" on line 14.(íêÑ8çá½¬û/
+~
+java:S41445"aUpdate this method so that its implementation is not identical to "textProcessorBing" on line 14.(»«ñ„8èá½¬û/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òşÚúøÿÿÿÿ8È–Êêú/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(òşÚúøÿÿÿÿ8Ë–Êêú/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(òşÚúøÿÿÿÿ8Ï–Êêú/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(òşÚúøÿÿÿÿ8Ó–Êêú/
+k
+java:S1192"IDefine a constant instead of duplicating this literal "Result: " 4 times.(òşÚúøÿÿÿÿ8Ö–Êêú/
+r
+java:S1192"UDefine a constant instead of duplicating this literal "this is the value : " 4 times.(Û¹Ş8×–Êêú/
