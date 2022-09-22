@@ -13,8 +13,6 @@ W
 'src/Java7features/TryWithResources.java,5\8\58d098ad5b20ec159f17b2402aace1cf0578516b
 a
 1src/Java7features/TryWithMultiCatchException.java,7\a\7aa68e08c333a11fba3343910e17ece7abfda4b5
-m
-=src/FunctionalInerfaceExample/EmployeeOperation/Employee.java,6\7\6781a657d0bb52941e5eb87e7c97a77285fa20fe
 d
 4src/FunctionalInerfaceExample/sort/SortListDemo.java,f\c\fc962758db9905e3d0b635a1ec8fcd1b6f993c6e
 Z
